@@ -26,3 +26,4 @@ Currently, we still haven't finished this project so not every function can be a
 ## Documentation
 Haven't started it yet, but you may take a look at original AIBIT docs (in chinese).
 
+[Documentation zh_CN](https://www.showdoc.com.cn/aibit?page_id=4438414118944030)
