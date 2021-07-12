@@ -13,7 +13,7 @@ We try to make the structure same as the standard AIBIT board, but due to some l
 
 ## Features
 
-Currently, we still haven't finished this project so not every function can already use yet. These are all features that may contain here:
+Currently, we still haven't finished this project so not every function can be already used yet. These are all features that may contain here:
 
  - Standard AIBIT functions
  - GUI for viewing screen
